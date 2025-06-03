@@ -31,6 +31,6 @@ deploy:
   services:
     - docker:dind
   script:
-    - echo "Deployment would happen here"
+    - echo "Deploy there!"
   only:
     - main
