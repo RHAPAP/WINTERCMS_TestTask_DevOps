@@ -19,7 +19,7 @@
 
 ```bash
 git clone https://github.com/RHAPAP/WINTERCMS_TestTask_DevOps.git
-cd wintercms-devops
+ cd WINTERCMS_TestTask_DevOps/
 
 # Запуск контейнеров проекта
 docker-compose up -d --build
