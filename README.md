@@ -18,7 +18,7 @@
 Открыть терминал и выполнить данные команды:
 
 ```bash
-git clone https://gitlab.com/твой-логин/wintercms-devops.git
+git clone https://github.com/RHAPAP/WINTERCMS_TestTask_DevOps.git
 cd wintercms-devops
 
 # Запуск контейнеров проекта
